@@ -21,8 +21,8 @@ In essence, this project is a combination and improvement of an already existing
 
 <!-- SCOPE OF THE PROJECT -->
 ## Scope of the project
-• Secure Pin Authentication 
-• Widget and SOS button 
+• Secure Pin Authentication
+• Widget and SOS button
 • Video recording
 • Alarm Whistle
 • Location Tracking
