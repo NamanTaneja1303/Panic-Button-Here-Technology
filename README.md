@@ -20,12 +20,12 @@ Nowdays there are attacks happening in the most shdiest place ever, And no help 
 In essence, this project is a combination and improvement of an already existing application. Users frequently use this programme to keep track of their family members' travel status and to enable the usage of the whistle in emergency situations. Identity authentication is a feature of our proposed application that ensures user identity and prevents anonymous check-in.
 
 <!-- SCOPE OF THE PROJECT -->
-## Scoe of the project
-1.Secure Pin Authentication 
-2.Widget and SOS button 
-3.Video recording
-4.Alarm Whistle
-5.Location Tracking
+## Scope of the project
+• Secure Pin Authentication 
+• Widget and SOS button 
+• Video recording
+• Alarm Whistle
+• Location Tracking
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -38,21 +38,21 @@ In essence, this project is a combination and improvement of an already existing
 <!-- TECHNOLOGY USED -->
 ## Technology Used
 
-* Python
+• Python
 
 <!-- HERE TECHNOLOGY API-->
 ## Here Technology API
-* Fleet Telematics
-* Positioning API
-* Data Hub API
-* Traffic API
-* Geocoding and Search API
+• Fleet Telematics
+• Positioning API
+• Data Hub API
+• Traffic API
+• Geocoding and Search API
 
 <!-- HERE TECHNOLOGY SDK-->
 ## Here Technology SDK
-* Here Data SDK
+• Here Data SDK
 <!-- HERE TECHNOLOGY LIBRARY-->
 ## Here Technology Library
-* Herepy
+• Herepy
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
