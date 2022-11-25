@@ -1,2 +1,0 @@
-opencv-python==4.5.5.62
-playsound==1.2.2
